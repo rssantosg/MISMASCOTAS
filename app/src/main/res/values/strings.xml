@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MIS MASCOTAS</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">✍Registrar</string>
+    <string name="tab_text_2">🔍Buscar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">nombre:</string>
+    <string name="identificar_el_lugar">"lugar "</string>
+    <string name="direccion_lugar">Direccion</string>
+    <string name="telefono">telefono</string>
+    <string name="tel_contacto">telefono cell</string>
+    <string name="url">url</string>
+    <string name="web">web</string>
+    <string name="comentario">comentario</string>
+    <string name="notas">notas</string>
+    <string name="tipo_lugar">tipo de lugar</string>
+    <string name="direccion">direccion</string>
+    <string name="tab_text_3">👍Responder</string>
+    <string name="accion_preferencias">preferencias</string>
+    <string name="accion_acerca_de">acerca</string>
+    <string name="mensaje_fab">click en el boton fab</string>
+    <string name="elijaLugar">Seleccion del lugar</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve"
+        translatable="false">AIzaSyBjCTJdplJo19LdeM_tuI-k6zO954GwSo0
+    </string>
+</resources>

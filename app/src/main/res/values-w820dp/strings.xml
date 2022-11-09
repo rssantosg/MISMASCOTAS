@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre">nombre:</string>
+    <string name="identificar_el_lugar">"lugar "</string>
+    <string name="direccion_lugar">Direccion</string>
+    <string name="telefono">telefono</string>
+    <string name="tel_contacto">telefono cell</string>
+    <string name="url">url</string>
+    <string name="web">web</string>
+    <string name="comentario">comentario</string>
+    <string name="notas">notas</string>
+    <string name="tipo_lugar">tipo de lugar</string>
+    <string name="direccion">direccion</string>
+    <string name="tab_text_3">Responder</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682846379588",
+    "project_id": "fir-logintest-97331",
+    "storage_bucket": "fir-logintest-97331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682846379588:android:2595a0f1e53e5145992611",
+        "android_client_info": {
+          "package_name": "com.practicas.firebaselogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682846379588-3cctnebkj1d1klpoippv4kkl6gkg3ps8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQSTUDJfVg3fAKXG61X0GD1f9SQLh50Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682846379588-3cctnebkj1d1klpoippv4kkl6gkg3ps8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
